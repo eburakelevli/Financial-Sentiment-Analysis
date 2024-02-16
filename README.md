@@ -1,1 +1,5 @@
 # Financial-Sentiment-Analysis
+# Twitter S&P 500 
+
+This project aims to analyse the relationship between the sentiment gathered from the social media about 6 major stocks which are major impactors on the NASDAQ 100 and the NASDAQ 100 performance with respect to specific time frames. To be able to predict any trend, the relationship between the sentiment and the price should be examined and this project focuses on exploring and finding with which sentiment labelling techniques results in finding the best relationship between the price and the social media sentiment. 2 different sentiment labelling approaches has been used which are lexicon based approach and machine learning approach. 5 different modelled sentiment labelled sets has been compared in according to the correlation that has been found with the sentiment labels and the price on a time series. A strong correlation has been achieved with training Bag of Words algorithm for sentiment labelling with the Textblob labelled data. This suggest that, social media data sentiments can be used to predict the trend of the selected stocks and the index funds.
+
